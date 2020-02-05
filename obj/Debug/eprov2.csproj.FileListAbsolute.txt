@@ -1,0 +1,6 @@
+c:\users\elev\documents\visual studio 2017\Projects\eprov2\eprov2\bin\Debug\eprov2.exe.config
+c:\users\elev\documents\visual studio 2017\Projects\eprov2\eprov2\bin\Debug\eprov2.exe
+c:\users\elev\documents\visual studio 2017\Projects\eprov2\eprov2\bin\Debug\eprov2.pdb
+c:\users\elev\documents\visual studio 2017\Projects\eprov2\eprov2\obj\Debug\eprov2.csprojResolveAssemblyReference.cache
+c:\users\elev\documents\visual studio 2017\Projects\eprov2\eprov2\obj\Debug\eprov2.exe
+c:\users\elev\documents\visual studio 2017\Projects\eprov2\eprov2\obj\Debug\eprov2.pdb
